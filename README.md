@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @pkmehta009
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning ... all thing (bgnr.)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Building ideas that turn into reality — one commit at a time.
 
-<!---
-pkmehta009/pkmehta009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Innovating with IoT, Automation & Edge Intelligence.
+
+🔧 Making hardware talk to the cloud.
+
+🌱 Learning, Building, Improving — every day.
+
+⚡ Passion for Embedded Systems | IoT | Wireless Communication.
+
+👨‍💻 Crafting solutions for real-world problems.
